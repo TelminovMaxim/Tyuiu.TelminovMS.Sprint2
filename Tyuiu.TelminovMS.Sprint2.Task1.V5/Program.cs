@@ -49,7 +49,7 @@ namespace Tyuiu.TelminovMS.Sprint2.Task1.V5
                 Console.WriteLine(res[i]);
             }
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }

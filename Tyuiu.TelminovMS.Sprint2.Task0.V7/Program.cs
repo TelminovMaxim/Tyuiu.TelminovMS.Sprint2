@@ -45,7 +45,7 @@ namespace Tyuiu.TelminovMS.Sprint2.Task0.V7
                 Console.WriteLine(res[i]);
             }
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
