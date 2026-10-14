@@ -11,7 +11,7 @@ namespace Tyuiu.TelminovMS.Sprint2.Task6.V12
             Console.Title = "Спринт #2 | Выполнил: Тельминов М. С. | ИСТНб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Оператор if – полная и короткая форма записи                      *");
+            Console.WriteLine("* Тема: Получение результата из switch                                    *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #12                                                             *");
             Console.WriteLine("* Выполнил: Тельминов Максим Сергеевич | ИСТНб-26-1                       *");
